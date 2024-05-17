@@ -1,0 +1,20 @@
+QUESTION 
+4. What strategies can you implement to 
+ensure timely updates and maintenance of 
+your software to adapt to changes in third-party 
+software requirements?
+
+ANSWER
+I will try to use the strategies I learned in my
+school days, One is Agile Approach, where we can
+have Sprint Planning, Daily Stand-ups, Sprint Review,
+and Retrospective. We can utilize this strategy to
+ensure timely updates by having daily stand-up for
+our daily updates, to know the current process,
+plans, and problems encounter during that day or before
+the daily stand-up. It can also be use to adapt
+to changes by having Sprint review and Retrospective
+to know what are the things you did, to know what went
+well, and what went wrong. This is to know the things
+you need to change for the next sprint to fullfill
+the requirements. 
